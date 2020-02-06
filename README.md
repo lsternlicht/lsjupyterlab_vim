@@ -4,8 +4,7 @@
 [![Build Status](https://travis-ci.org/jwkvam/jupyterlab-vim.svg?branch=master)](https://travis-ci.org/jwkvam/jupyterlab-vim)
 [![npm downloads](https://img.shields.io/npm/dw/jupyterlab_vim.svg)](https://www.npmjs.com/package/jupyterlab_vim)
 
-NEW ADDITIONS
-#############
+## NEW ADDITIONS
 - 'jk' to escape input mode
 
 
